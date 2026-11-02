@@ -24,7 +24,7 @@ Hänvisa till din plan i planering.md. Vilken idé valde du bort, och varför?
 
 Hur växte spelet fram? Peka på några commits. Vilket kort tog längst tid?
 
-## Utpröva
+## Testa
 
 Hur testade du att spelet fungerar? Vad hände när någon annan spelade det?
 
