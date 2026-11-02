@@ -5,7 +5,7 @@
 **Kort version:** du bygger ett fightingspel i terminalen, du mot datorn. Varje tur slår båda, skadan
 slumpas, och kampen pågår tills någon har noll HP (hälsopoäng) kvar. Kraven är samma för alla, men
 spelet är ditt: du bestämmer vem som slåss, vad spelaren kan välja och minst två egna idéer. Först
-planerar du och skriver dina kort, sedan bygger du ett kort i taget. Sikte: klart till jul.
+planerar du och skriver dina kort, sedan bygger du ett kort i taget. Inlämning/redovisning: torsdag 17 december.
 
 Resten av den här filen slår du upp i när du behöver.
 
