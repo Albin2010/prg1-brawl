@@ -34,6 +34,28 @@ Brädet är ditt. Hinner du inte bli klar med ett kort under ett pass är kortet
 det. Kommer du på något nytt, skriv ett kort. Visar sig ett kort onödigt, ta bort det. Bara
 kravkorten ligger fast.
 
+## AI
+
+**Kort version:** tänk själv först. AI får hjälpa dig efter att du har försökt, aldrig i stället
+för. Använder du AI, redovisa hur.
+
+Brawl tränar problemlösning och felsökning: att dela upp ett problem, köra fast, hitta felet och
+förstå varför det blev fel. Det är precis det AI gör åt dig om du låter den, och då tränar du inte
+det du ska kunna på provet och i samtalet. Det är som att låta någon annan springa ditt
+träningspass.
+
+Kör du fast, gör så här i tur och ordning:
+
+1. Läs felmeddelandet. Vilken rad pekar det på?
+2. Spåra koden rad för rad. Vad borde variablerna innehålla, och vad innehåller de?
+3. Skriv i felsökningsloggen vad som gick fel och varför du tror att det blev så.
+4. Fråga en kompis eller läraren, eller AI. Fyll då i AI-fältet i loggen: vad du frågade, vad du
+   fick och vad du gjorde med det.
+
+Samma sak gäller om du använder AI till något utöver kraven, till exempel en idé från "Vill du mer".
+Skriv under rubriken "AI jag använde" längst ner vad du frågade (prompten), vad du fick och vad du
+ändrade. Koden du lämnar in ska du kunna förklara i samtalet, oavsett var den kommer ifrån.
+
 ## Kraven
 
 **Spelet**
@@ -99,6 +121,10 @@ Ett mönster från Mönsterkortet per rad, och raden eller variabeln där det si
 ## Mina egna idéer
 
 Vilka kort hittade du på själv, och varför just de?
+
+## AI jag använde
+
+Prompten, vad du fick och vad du ändrade. Använde du ingen AI, skriv det.
 
 ## Det som var svårast
 
