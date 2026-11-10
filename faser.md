@@ -10,11 +10,13 @@ och vad det ledde till.
 ## Identifiera behov
 
 Vem ska spela, och vad ska spelet klara? Vad gör att någon vill spela en gång till?
+du mot Polly/datorn. folk vill spela mer eftersom det finns många slut och är svårt att förlora 
 
 ## Undersöka
 
 Titta på minst ett annat spel med turer, i en terminal, på mobilen eller ett brädspel. Vad tar du
 med dig, och vad gör du inte likadant?
+
 
 ## Förslag
 
